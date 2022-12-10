@@ -1,0 +1,7 @@
+.metals
+build
+.vscode
+
+.tox
+.venv
+**/__pycache__
